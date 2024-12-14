@@ -1,0 +1,4 @@
+﻿  Hammurabi.cpp
+C:\Users\maxim\source\repos\Hammurabi\Hammurabi\Hammurabi.cpp(94,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\maxim\source\repos\Hammurabi\Hammurabi\Hammurabi.cpp(113,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Hammurabi.vcxproj -> C:\Users\maxim\source\repos\Hammurabi\x64\Debug\Hammurabi.exe
